@@ -19,7 +19,8 @@ Complete the tasks below:
 
 -------------------------------------
 This repository contains 4 files:
-- worldcup.sql : sql code that's been generated from my own sql code in the workspace for submission on Freecodecamp;
-- insert_data.sh : bash script that's been used to insert the data from the csv into the database
-- queries.sh : bash script with sql queries to generate the requested output
-- games.csv : data that's been used
+- worldcup-preparation.sql : SQL code I wrote and put in the workspace to create the database+tables;
+- worldcup.sql : SQL code that's been generated from my own SQL code in the workspace for submission on Freecodecamp;
+- insert_data.sh : Bash script I created that's been used to insert the data from the .csv into the database;
+- queries.sh : Bash script I created with SQL queries to generate the requested output;
+- games.csv : data that's been used.
