@@ -18,7 +18,7 @@ Complete the tasks below:
 - You should correctly complete the queries in the queries.sh file. Fill in each empty echo command to get the output of what is suggested with the command above it. Only use a single line like the first query. The output should match what is in the expected_output.txt file exactly, take note of the number of decimal places in some of the query results
 
 -------------------------------------
-This repository contains 4 files:
+This repository contains 5 files:
 - worldcup-preparation.sql : SQL code I wrote and put in the workspace to create the database+tables;
 - worldcup.sql : SQL code that's been generated from my own SQL code in the workspace for submission on Freecodecamp;
 - insert_data.sh : Bash script I created that's been used to insert the data from the .csv into the database;
